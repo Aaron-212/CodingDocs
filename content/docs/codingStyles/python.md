@@ -4,8 +4,6 @@ prev: /docs/codingStyles
 next: /docs/codingStyles/htmlcss
 ---
 
-
-
 ## 引入
 
 本指南档提供了Aaron212制定的的Python代码风格指南。主要源自
