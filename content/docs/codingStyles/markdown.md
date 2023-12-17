@@ -1,4 +1,7 @@
-# Rules
+---
+title: Markdown代码风格指南
+prev: /docs/codingStyles
+---
 
 This document contains a description of all rules, what they are checking for,
 as well as examples of documents that break the rule and corrected

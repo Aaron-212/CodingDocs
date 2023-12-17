@@ -1,7 +1,6 @@
 ---
 title: Aaron212的编码风格
-prev: /docs/
-next: /docs/codingStyles/python
+prev: /docs/basicTutorials
 ---
 
 这是我个人的编码风格，主要是为了方便自己的编码，也是为了方便阅读别人的代码。

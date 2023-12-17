@@ -1,6 +1,6 @@
 ---
 title: 文档
-next: /docs/codingStyles
+next: /docs/basicTutorials
 ---
 
 This is a demo of the theme's documentation layout.

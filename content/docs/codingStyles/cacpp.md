@@ -1,7 +1,7 @@
-# LLVM Coding Standards
-
-::: {.contents local=""}
-:::
+---
+title: C/C++代码风格指南
+prev: /docs/codingStyles
+---
 
 ## Introduction
 

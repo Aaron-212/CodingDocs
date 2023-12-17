@@ -1,7 +1,6 @@
 ---
 title: Python代码风格指南
 prev: /docs/codingStyles
-next: /docs/codingStyles/htmlcss
 ---
 
 ## 引入
@@ -690,7 +689,7 @@ X11库在其所有公共函数前面使用前缀X。在Python中，这种风格�
 
 - ``__double_leading_and_trailing_underscore__``：双下划线开头加结尾，
   存在于用户可控制的命名空间中的“魔术”对象或属性。
-  例如，init、import__或__file。永远不要自己发明这样的名称；
+  例如，`init`、`import__`或`__file`。永远不要自己发明这样的名称；
   只按照文档使用它们。
 
 ### 规定性的命名约定
