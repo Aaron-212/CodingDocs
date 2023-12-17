@@ -1,6 +1,6 @@
 ---
-title: Documentation
-next: first-page
+title: 文档
+next: /docs/codingStyles
 ---
 
 This is a demo of the theme's documentation layout.

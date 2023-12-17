@@ -1,0 +1,15 @@
+:root {
+    --primary-hue: 211deg;
+    --primary-saturation: 100%;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --primary-hue: 210deg;
+        --primary-saturation: 96%;
+    }
+}
+
+.content {
+    font-family: -apple-system, "Helvetica Neue", sans-serif;
+}

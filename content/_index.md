@@ -1,17 +1,10 @@
 ---
-title: My Site
+title: Aaron212的编程文档
 toc: false
 ---
 
-This is the landing page.
-
-## Explore
+## 探索
 
 {{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
+  {{< card link="/docs/codingstyles" title="代码风格" icon="book-open" >}}
 {{< /cards >}}
-
-## Documentation
-
-For more information, visit [Hextra](https://imfing.github.io/hextra).
